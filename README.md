@@ -1,8 +1,8 @@
 # Projeto Nerd Store #
 
-## Desenvolvimento de uma aplicação em ASP.NET Core ##
+## Desenvolvimento de uma aplicação em ASP.NET Core. ##
 
-📝 **Nota:** Demontração de uma aplicação web, demontrando a aplicabilidade do DDD, aplicando a modelagem tática na prática.
+📝 **Nota:** Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com foco na aplicação prática da modelagem tática.
 
 🔧 **Versão**
 
