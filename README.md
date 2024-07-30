@@ -1,8 +1,8 @@
-# Angular Avançado #
+# Projeto Nerd Store #
 
-## Desenvolvimento Avançado de um Projeto Angular. ##
+## Desenvolvimento de uma aplicação em Asp.Core ##
 
-📝 **Nota:** Demontração de uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página conforme o usuário interage com a aplicação.
+📝 **Nota:** Demontração de uma aplicação web, demontrando a aplicabilidade do DDD.
 
 🔧 **Versão**
 
