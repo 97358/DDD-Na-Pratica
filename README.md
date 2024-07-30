@@ -1,6 +1,6 @@
 # Projeto Nerd Store #
 
-## Desenvolvimento de uma aplicação em Asp.Core ##
+## Desenvolvimento de uma aplicação em ASP.NET Core ##
 
 📝 **Nota:** Demontração de uma aplicação web, demontrando a aplicabilidade do DDD.
 
