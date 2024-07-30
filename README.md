@@ -2,7 +2,7 @@
 
 ## Desenvolvimento de uma aplicação em ASP.NET Core ##
 
-📝 **Nota:** Demontração de uma aplicação web, demontrando a aplicabilidade do DDD.
+📝 **Nota:** Demontração de uma aplicação web, demontrando a aplicabilidade do DDD, aplicando a modelagem tática na prática.
 
 🔧 **Versão**
 
